@@ -1,0 +1,5 @@
+// Update the progress tracker
+document.getElementById("progress").innerHTML = "25%";
+
+// Update the KPI tracker
+document.getElementById("kpi-1").innerHTML = "50%";

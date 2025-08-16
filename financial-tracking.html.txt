@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Financial Tracking</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header>
+		<h1>Financial Tracking</h1>
+	</header>
+	<main>
+		<section>
+			<h2>Budget Overview</h2>
+			<p>Total Budget: $5,000</p>
+			<p>Balance: $500</p>
+			<p>Budget Utilization: 30.0%</p>
+		</section>
+		<section>
+			<h2>Income & Expenses</h2>
+			<ul>
+				<li>Income: $2,000</li>
+				<li>Expenses: $1,500</li>
+			</ul>
+		</section>
+	</main>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Election</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header>
+		<h1>Election</h1>
+	</header>
+	<main>
+		<section>
+			<h2>Candidate Applications</h2>
+			<ul>
+				<li>Candidate 1: John Doe</li>
+				<li>Candidate 2: Jane Smith</li>
+			</ul>
+		</section>
+		<section>
+			<h2>Voting Results</h2>
+			<p>View the current voting results:</p>
+			<button>View Results</button>
+		</section>
+	</main>
+</body>
+</html>

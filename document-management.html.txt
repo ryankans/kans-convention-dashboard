@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Document Management</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header>
+		<h1>Document Management</h1>
+	</header>
+	<main>
+		<section>
+			<h2>Document Repository</h2>
+			<ul>
+				<li>Document 1: Master Plan</li>
+				<li>Document 2: Formal Agreements with NKU</li>
+				<li>Document 3: Speaker Agreements</li>
+			</ul>
+		</section>
+		<section>
+			<h2>Commenting and Collaboration</h2>
+			<p>Leave a comment or suggestion on a document:</p>
+			<textarea></textarea>
+			<button>Submit</button>
+		</section>
+	</main>
+</body>
+</html>
